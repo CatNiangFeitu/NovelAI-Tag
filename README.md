@@ -1,8 +1,10 @@
 # NovelAI-Tag
  一键生成NovelAI Tag 简洁且强大
-https://github.com/WolfChen1996/NovelAI-tag-generator
+ 
+ 在这里体验喵  https://feitu.tk/tools/novelai/
+ 
+「青出于蓝而胜于蓝」https://github.com/WolfChen1996/NovelAI-tag-generator
 
-「青出于蓝而胜于蓝」
 
 # 禁止修改成收费项目！！！
 虽然说开源协议里面没有禁止
